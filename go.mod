@@ -1,4 +1,4 @@
-module github.com/google/easypki
+module github.com/ericlin0122/easypki
 
 go 1.16
 
