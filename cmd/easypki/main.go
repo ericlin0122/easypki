@@ -29,9 +29,9 @@ import (
 	"encoding/pem"
 
 	"github.com/urfave/cli"
-	"github.com/google/easypki/pkg/certificate"
-	"github.com/google/easypki/pkg/easypki"
-	"github.com/google/easypki/pkg/store"
+	"github.com/ericlin0122/easypki/pkg/certificate"
+	"github.com/ericlin0122/easypki/pkg/easypki"
+	"github.com/ericlin0122/easypki/pkg/store"
 )
 
 const (
